@@ -9,7 +9,8 @@
 
 - 🔭 I build **enterprise Odoo modules** — full apps with models, security, QWeb reports, OWL widgets and portals.
 - 🚀 Flagship: **[ODOOPIM](https://github.com/takkii4411-boop/odoopim-ai-suite)** — an **AI-powered Product Information Management** suite (25 modules on Odoo 18): families/attributes/channelization/localization, AI enrichment & translation, embedded AI chatbot, marketplace/n8n connectors.
-- 🏭 Also delivered: **sugar-factory ERP** with **Odoo ↔ Tally connector**, statutory **SC/PWD POS discount engine**, **estimation ERP suite**, **pet-store e-commerce customizations**.
+- 🏥 Built **Hospital Management System completely from scratch** (models → security → wizards → QWeb reports → portal flow).
+- 🏭 Client-driven enhancements & debugging elsewhere: **sugar-factory ERP** with **Odoo ↔ Tally connector**, statutory **SC/PWD POS discount engine** (modifications on POS), **estimation ERP suite**, **pet-store e-commerce customizations**.
 - 🧩 I maintain a reusable **OWL widget library** — Excel editor, webcam capture, x2many search bars — ported across Odoo 16→19.
 - 📚 Portfolio: **[odoo-portfolio](https://github.com/takkii4411-boop/odoo-portfolio)**
 
